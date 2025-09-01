@@ -32,12 +32,6 @@
 		<ProjectReference Include="..\spreadsheet\syncfusion.spreadsheetdemos.wpf_lib.csproj">
 			<Name>syncfusion.spreadsheetdemos.wpf_lib</Name>
 		</ProjectReference>
-		<Reference Include="Syncfusion.SfColorPalette.Wpf">
-			<HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\$(TargetFramework)\Syncfusion.SfColorPalette.Wpf.dll</HintPath>
-		</Reference>
-		<Reference Include="Syncfusion.SfRadialMenu.Wpf">
-			<HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\$(TargetFramework)\Syncfusion.SfRadialMenu.Wpf.dll</HintPath>
-		</Reference>
 		<Reference Include="Syncfusion.Tools.Wpf">
 			<HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\$(TargetFramework)\Syncfusion.Tools.Wpf.dll</HintPath>
 		</Reference>
