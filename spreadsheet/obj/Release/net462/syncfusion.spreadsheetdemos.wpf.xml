@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>syncfusion.spreadsheetdemos.wpf</name>
+    </assembly>
+    <members>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:syncfusion.spreadsheetdemos.wpf.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:syncfusion.spreadsheetdemos.wpf.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.AdvancedConditionalFormatting">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            AdvancedConditionalFormatting
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.AdvancedConditionalFormatting.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.CellCustomizationDemo">
+            <summary>
+            Interaction logic for CellCustomizationDemo.xaml
+            </summary>
+            <summary>
+            CellCustomizationDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.CellCustomizationDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.CellFormatting">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            CellFormatting
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.CellFormatting.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.ChartDemo">
+            <summary>
+            Interaction logic for ChartDemo.xaml
+            </summary>
+            <summary>
+            ChartDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.ChartDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.ConditionalFormattingDemo">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            ConditionalFormattingDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.ConditionalFormattingDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.DataGridView">
+            <summary>
+            Interaction logic for DataGridView.xaml
+            </summary>
+            <summary>
+            DataGridView
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.DataGridView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.DataManagementDemo">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            DataManagementDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.DataManagementDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.ExportingDemo">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            ExportingDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.ExportingDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.FilteringDemo">
+            <summary>
+            Interaction logic for FilteringDemo.xaml
+            </summary>
+            <summary>
+            FilteringDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.FilteringDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.FormulaDemo">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            FormulaDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.FormulaDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.GettingStarted">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            GettingStarted
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.GettingStarted.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.GraphicCellDemo">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            GraphicCellDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.GraphicCellDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.OutliningDemo">
+            <summary>
+            Interaction logic for OutliningDemo.xaml
+            </summary>
+            <summary>
+            OutliningDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.OutliningDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.PrintingDemo">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            PrintingDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintingDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow">
+            <summary>
+            Interaction logic for PrintPreviewWindow.xaml
+            </summary>
+            <summary>
+            PrintPreviewWindow
+            </summary>
+        </member>
+        <member name="P:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.Spreadsheet">
+            <summary>
+            Gets or sets the sfspreadsheet.
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.#ctor">
+            <summary>
+            Initialize the required objects through constructor.
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.Window_Loaded(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Loads PDF on load and initializes controls in custom toolbar.
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.First_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles first page navigation.
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.Previous_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles previous page navigation.
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.Next_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles next page navigation.
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.Last_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles last page navigation.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.Zoom_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Handles zoom selection changes.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.FitPage_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles fitpage.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.FitWidth_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles fitwidth.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.Print_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles print operation.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.ZoomOut_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles zoomout.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.ZoomIn_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles zoomin.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.txtCurrentPageIndex_KeyDown(System.Object,System.Windows.Input.KeyEventArgs)">
+            <summary>
+            Handles custom page navigation.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.FindText_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles text search bar dispaly operation.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.PrintPreviewWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:syncfusion.spreadsheetdemos.wpf.SparklinesDemo">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            SparklinesDemo
+            </summary>
+        </member>
+        <member name="M:syncfusion.spreadsheetdemos.wpf.SparklinesDemo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+            <summary>
+            GeneratedInternalTypeHelper
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+            <summary>
+            CreateInstance
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            GetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            SetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+            <summary>
+            CreateDelegate
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+            <summary>
+            AddEventHandler
+            </summary>
+        </member>
+    </members>
+</doc>
