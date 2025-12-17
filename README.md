@@ -5,7 +5,7 @@ This repository contains the demos for the [Syncfusion® Spreadsheet Editor SDK 
 
 This section guides you to use the Syncfusion Spreadsheet Editor SDK WPF demos in your applications.
 
-* [Requirements to run the demo](#requirements-to-run-the-demo)
+* [Requirements to run the demo](#requirements-to-run-the-demo) 
 * [How to run the demos](#how-to-run-the-demos)
 * [Documentation](#documentation)
 * [License](#license)
