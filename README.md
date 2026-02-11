@@ -25,16 +25,11 @@ Syncfusion® Spreadsheet Editor WPF supports the following .NET Framework and .N
 * .NET Framework 4.6.2
 * .NET 8.0
 * .NET 9.0
+* .NET 10.0
 
 ## <a name="how-to-run-the-demos"></a>How to run the demos
 
-* Open `Syncfusion.samplebrowser.wpf_excelsdk.sln`   from the **samplebrowser** folder.
-* Select the .NET target version as .NET Framework 4.6.2 or .NET 8.0-windows, or .NET 9.0-windows for the project.
-
-**Notes:** While downloading the zip file, follow below steps
-* Before you unzip the archive, right-click it, select **Properties**, and then select **Unblock**.
-* Be sure to unzip the entire archive, and not just individual folders. The demo all depend on all the folders in the archive.
-* If you unzip individual folders, they will not build due to references to other portions of the ZIP file that were not unzipped. You must unzip the entire archive if you intend to build the samples.
+Open `syncfusion.samplebrowser.wpf_spreadsheeteditorsdk.sln` from the **samplebrowser** folder.
 
 ### Key Features
 
