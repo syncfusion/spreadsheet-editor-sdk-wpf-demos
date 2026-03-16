@@ -1,4 +1,4 @@
-# Syncfusion® Spreadsheet Editor SDK WPF Demos   
+﻿# Syncfusion® Spreadsheet Editor SDK WPF Demos   
 
 This repository contains the demos for the [Syncfusion® Spreadsheet Editor SDK for WPF](https://www.syncfusion.com/spreadsheet-editor-sdk/wpf-spreadsheet-editor
 ). It is the best place to explore our WPF Spreadsheet Editor control and gain insights into API usage. The Syncfusion WPF Spreadsheet Editor is an Excel-inspired component that allows you to create, edit, view, and format Excel files without requiring Excel. The WPF Spreadsheet SDK enables you to work with Microsoft Excel files natively within a WPF application.
@@ -59,4 +59,4 @@ Syncfusion has no liability for any damage or consequence that may arise by the 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>.
 
 * Don't see what you need? Please request it in our [Feedback portal](https://www.syncfusion.com/feedback/file-formats).
-<p>Copyright © 2001-2026 Syncfusion, Inc. Updated on 2026-02-06 at precisely 17:12:36 EST.</p> 
+<p>Copyright © 2001-2026 Syncfusion, Inc. Updated on 2026-03-16 at precisely 15:24:45 EST.</p> 
